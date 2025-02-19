@@ -266,3 +266,4 @@ tags = [ "Library"] # This line is optional
 
 
 Thank you for contributing and for reading the contribution guide! ❤️
+This project is a demonstration of blockchain technology and smart contract integration.
